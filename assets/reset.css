@@ -47,6 +47,10 @@ table {
 	border-spacing: 0;
 }
 
+a {
+	text-decoration: none;
+}
+
 /* Universal Box Sizing with Inheritance 
    Personal add (Vitor Magnago)
 */

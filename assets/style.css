@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@500;700;900&display=swap');
+
+body {
+    min-height: 100vh;
+    background-color: #E0E8FF;
+    background-image: url(/images/pattern-background-desktop.svg);
+    background-position: left top;
+    background-repeat: no-repeat;
+}
