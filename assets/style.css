@@ -133,6 +133,11 @@ body, .plan-card {
 }
 
 .card__cancel {
+	margin-top: 32px;
+	margin-bottom: 48px;
+}
+
+.card__cancel a {
 	font-size: 15px;
 	line-height: 20px;
 	color: #717fa6;
@@ -140,7 +145,7 @@ body, .plan-card {
 	margin-bottom: 48px;
 }
 
-.card__cancel:active {
+.card__cancel a:active {
 	color: #1f2e55;
 }
 
@@ -203,8 +208,10 @@ body {
 }
 
 .card__cancel {
-	line-height: 19.85px;
 	margin-top: 24px;
 	margin-bottom: 32px;
+}
+.card__cancel a {
+	line-height: 19.85px;
 }
 }
